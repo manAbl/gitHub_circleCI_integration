@@ -1,0 +1,27 @@
+{
+  "name": "github_circleci_integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manAbl/gitHub_circleCI_integration.git"
+  },
+  "keywords": [
+    "test",
+    "jest",
+    "circleci"
+  ],
+  "author": "manAbl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manAbl/gitHub_circleCI_integration/issues"
+  },
+  "homepage": "https://github.com/manAbl/gitHub_circleCI_integration#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
